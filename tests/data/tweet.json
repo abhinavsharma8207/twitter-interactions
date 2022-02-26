@@ -1,0 +1,120 @@
+[
+  {
+    "id": "1412690746893799428",
+    "conversation_id": "1412690746893799428",
+    "created_at": 1592611198000,
+    "date": "2020-06-20 06:59:58",
+    "timezone": "+0700",
+    "place": "",
+    "location": "",
+    "tweet": " pic.twitter.com/PpDCgojRF4",
+    "language": "und",
+    "hashtags": [
+
+    ],
+    "cashtags": [
+
+    ],
+    "mentions": [
+      "realdonaldtrump"
+    ],
+    "user_id": 1067442078303555584,
+    "user_id_str": "1067442078303555584",
+    "username": "eToroAr",
+    "name": "Michael Richardson",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1232899086380150785/xFM-Y5YJ.jpg",
+    "photos": [
+      "https://pbs.twimg.com/media/Ea6eUsPXkAENwQ5.jpg",
+      "https://pbs.twimg.com/media/Ea6eU3PWAAEFf2D.jpg",
+      "https://pbs.twimg.com/media/Ea6eU-jWAAAzz51.jpg"
+    ],
+    "video": 0,
+    "datetime": 1592611198000,
+    "datestamp": "2020-06-20",
+    "timestamp": "06:59:58",
+    "day": 6,
+    "hour": "06",
+    "link": "https://twitter.com/bigmike031862/status/1274129831580577798",
+    "retweet": 0,
+    "nlikes": 0,
+    "nreplies": 0,
+    "nretweets": 0,
+    "quote_url": "",
+    "urls": [
+
+    ],
+    "user_object": {
+      "id": 1067442078303555584,
+      "id_str": "1067442078303555584",
+      "name": "eToroAr AR",
+      "username": "eToroAr"
+    },
+    "search": "realDonaldTrump",
+    "near": "",
+    "geo": "",
+    "source": "",
+    "user_rt_id": "",
+    "user_rt": "",
+    "retweet_id": "",
+    "reply_to": [
+    ],
+    "retweet_date": "",
+    "translate": "",
+    "trans_src": "",
+    "trans_dest": ""
+  },
+  {
+    "date": "2021-01-13 08:10:02",
+    "sentiment": "None",
+    "hashtags": [
+
+    ],
+    "link": "https://twitter.com/CAFC_SF88/status/1349267449988980736",
+    "created_at": 1610525402000,
+    "tweet_cleansed": ".iamtomskinner Pret do the best coffee",
+    "photos": [
+
+    ],
+    "retweeted_by": [
+
+    ],
+    "retweets_count": 0,
+    "datestamp": "2021-01-13",
+    "urls": [
+
+    ],
+    "user_id_str": "256662980",
+    "tweet_no_urls": "@iamtomskinner Pret do the best coffee",
+    "conversation_id": "1349249391757037571",
+    "text": ".iamtomskinner Pret do the best coffee",
+    "place": "",
+    "id": "1349267449988980736",
+    "keyword": "@iamtomskinner",
+    "tweet_languages": [
+
+    ],
+    "liked_by": [
+
+    ],
+    "image_paths": [
+
+    ],
+    "attached_urls": [
+
+    ],
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1193632947577991169/dUPFRQJc_normal.jpg",
+    "tweet": "@iamtomskinner Pret do the best coffee",
+    "insertion_date": "2021-01-13 11:58:42",
+    "likes_count": 0,
+    "image_path": "",
+    "mentions": [
+      "@iamtomskinner"
+    ],
+    "twitter_urls": [
+
+    ],
+    "name": "S",
+    "location": "",
+    "username": "CAFC_SF88"
+  }
+]

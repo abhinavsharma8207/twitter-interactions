@@ -1,0 +1,14 @@
+aiohttp==3.6.2
+pika==1.1.0
+setuptools==40.6.3
+aiohttp_socks<=0.4.1
+async_timeout==3.0.1
+beautifulsoup4==4.7.1
+flask==1.1.2
+apscheduler~=3.6.3
+selenium==3.141.0
+tenacity==6.2.0
+pathlib==1.0.1
+requests-futures==1.0.0
+coverage==5.2.1
+pyvirtualdisplay==2.0

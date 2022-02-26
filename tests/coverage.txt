@@ -1,0 +1,8 @@
+Name                                  Stmts   Miss  Cover
+---------------------------------------------------------
+src/app/__init__.py                       3      0   100%
+src/app/twitter_selenium_scraper.py     228     49    79%
+src/app/twitter_video_downloader.py     128     10    92%
+src/src_dir.py                           20      2    90%
+---------------------------------------------------------
+TOTAL                                   379     61    84%
